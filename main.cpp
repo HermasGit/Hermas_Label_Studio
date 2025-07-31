@@ -1,9 +1,12 @@
 #include <iostream>
+#include <algorithm>
 #include <GLFW/glfw3.h>
 #include <GL/gl.h>
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
 #include "imgui_impl_opengl3.h"
+#define STB_IMAGE_IMPLEMENTATION
+#include "stb_image.h"
 
 
 // ...existing code...
@@ -19,12 +22,6 @@ SlideImage slideImages[4];
 int currentSlide = 0;
 float slideTimer = 0.0f;
 const float slideInterval = 3.0f; // seconds
-#include <iostream>
-#include <GLFW/glfw3.h>
-#include <GL/gl.h>
-#include "imgui.h"
-#include "imgui_impl_glfw.h"
-#include "imgui_impl_opengl3.h"
 
 // ...existing code...
 

@@ -27,9 +27,6 @@ const float slideInterval = 3.0f; // seconds
 #include "imgui_impl_opengl3.h"
 
 // ...existing code...
-// At the very end of the file:
-#define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
 
 // Windows API for taskbar control
 #ifdef _WIN32

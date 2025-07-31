@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Desktop\HermasLabelStudio\build\CMakeFiles\c6602e5f045479075443cd3bdf88ec36\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\HermasLabelStudio\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pc\Desktop\HermasLabelStudio\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\pc\Desktop\HermasLabelStudio\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\pc\Desktop\HermasLabelStudio\build\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{73E11DA9-044C-34B9-B4EE-80CA1C855CF2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3726F122-E55E-3D9B-84BE-DF16FA636338}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

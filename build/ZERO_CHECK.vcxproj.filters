@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Desktop\HermasLabelStudio\build\CMakeFiles\320455b716dbe27bc7135878f7f488c4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{73E11DA9-044C-34B9-B4EE-80CA1C855CF2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
